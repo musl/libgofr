@@ -1,5 +1,4 @@
 # libgofr
 
-A shabby but functional library for rendering fractal images.
+This has been merged into: https://github.com/musl/gofr
 
-See also: https://github.com/musl/gofrd
